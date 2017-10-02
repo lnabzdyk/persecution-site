@@ -2,7 +2,7 @@
 layout: default
 title:  South Korea Testimony
 date:   2017-09-28
-opening: After Gyeong Ju Son, a young woman from North Korea, gave her moving testimony at The Third Lausanne Congress on World Evangelization in Cape Town in October 2010, the 4200 participants from over 190 countries, came away stunned—many moved to tears.
+opening: After Gyeong Ju Son, a young woman from North Korea, gave her moving testimony at The Third Lausanne Congress on World Evangelization in Cape Town in October 2010, the 4200 participants from over 190 countries...
 ---
 > And now, compelled by the Spirit, I am going to Jerusalem, not knowing what will happen to me there. I only know that in every city the Holy Spirit warns me that prison and hardships are facing me. I consider my life worth nothing to me; my only aim is to finish the race and complete the task the Lord Jesus has given me—the task of testifying to the good news of God’s grace.  Acts 20:22-24
 >
@@ -35,8 +35,6 @@ Now a student, the intention of this young and vibrant follower of Christ is to 
 > “Brothers and sisters here in this place, I humbly ask you to pray that the same light of God’s grace and mercy that reached my father and my mother and now me, will one day soon dawn upon the people of North Korea, my people!”
 >
 
-#### RESPONSE:
-Today I will continue to believe that God takes terrible situations and turns them into good.
+**RESPONSE:** Today I will continue to believe that God takes terrible situations and turns them into good.
 
-#### PRAYER:
-Lord, we pray that you will call many youths like Gyeong Ju to minister among the needy people of North Korea.
+**PRAYER:** Lord, we pray that you will call many youths like Gyeong Ju to minister among the needy people of North Korea.
