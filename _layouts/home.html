@@ -3,28 +3,26 @@
 <img class="col-md-12" src=images/crosshill.png />
 
 <div class="row">
-  <div class="col-md-9">
+  <div class="col-md-8">
 
     {% for post in site.posts %}
-    <div class="row">
-      <div class="col-sm-6 col-md-6">
-         <div class="thumbnail">
-           <img src="" alt="South Korean Landscape" />
-           <div class="caption">
-             <h3>{{ post.title }}</h3>
-             {{ post.opening }}
-             <p><a href="{{ post.url}}" class="btn btn-primary" role="button">Read More</a></p>
-         </div>
-       </div>
+    <div class="thumbnail">
+       <img src="" alt="South Korean Landscape" />
+       <div class="caption">
+         <h3>{{ post.title }}</h3>
+         {{ post.opening }}
+         <p><a href="{{ post.url}}" class="btn btn-primary" role="button">Read More</a></p>
+     </div>
+    </div>
     {% endfor %}
 
   </div>
-</div>
-<div class="col-md-3">
-  {{content}}
-</div>
 
-</div>
+      <div class="row">
+        <div class="col-md-4">
+            {{content}}
+        </div>
+    </div>
 </div>
 
 

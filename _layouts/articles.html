@@ -1,0 +1,15 @@
+{% include header.html %}
+
+{% for post in site.posts %}
+<div class="thumbnail">
+   <img src="" alt="South Korean Landscape" />
+   <div class="caption">
+     <h3>{{ post.title }}</h3>
+     {{ post.opening }}
+     <p><a href="{{ post.url}}" class="btn btn-primary" role="button">Read More</a></p>
+ </div>
+</div>
+{% endfor %}
+
+
+{% include footer.html %}

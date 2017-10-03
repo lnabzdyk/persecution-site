@@ -1,8 +1,8 @@
 ---
 layout: default
-title:  South Korea Testimony
-date:   2017-09-28
-opening: A hatred of her enemies is something Takoosh Hovsepian, the wife of an Iranian pastor murdered in 1994 no longer has. She says: “I’ve learned a lesson...
+title:  Forgiving Our Enemies
+date:   2017-09-29
+opening: A hatred of her enemies is something Takoosh Hovsepian, the wife of an Iranian pastor murdered in 1994 no longer has...
 ---
 >And when you stand praying, if you hold anything against anyone, forgive them, so that your Father in heaven may forgive you your sins. Mark 11:25
 >
