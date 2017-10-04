@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="" />
+<img src="images/folded-hands.png" />
 
 ## The Gospel message
 

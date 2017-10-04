@@ -2,6 +2,7 @@
 layout: home
 ---
 
+<img src="images/paul-bio-main.png" />
 #### Rev. Paul Estabrooks
 
 senior communication

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="" />
+<img src="images/praying-people.png" />
 
 ## WANT TO HELP SUPPORT THE PERSECUTED CHURCH?
 

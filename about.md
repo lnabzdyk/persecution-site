@@ -3,6 +3,8 @@ layout: default
 title: About
 ---
 
+<img src="images/paul-bio-big.png" />
+
 ## Reverend Paul Estabrooks
 
 Rev. Paul Estabrooks is senior communication specialist for Open Doors International, an organization founded by Brother Andrew that distributes Bibles, brings encouragement, training and other assistance to Christians living in areas where they are persecuted or are restricted in living out or sharing their faith and encourages them to reach out to others around them. Paul is a veteran foreign missionary with a deep concern for Christians in restricted countries. He has completed thirty-two years of ministry to Persecuted Christians with Open Doors International. Paul is the author of four books and a number of booklets. One is a major training manual used around the world entitled Standing Strong through the Storm. His latest volumes are Escape from North Korea and Night of a Million Miracles: The Inside Story of Project Pearl.
