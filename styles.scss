@@ -1,15 +1,51 @@
 ---
 ---
-@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,500,600,600i,700,800');
+@import url('https://fonts.googleapis.com/css?family=Khula:300,400,600,700,800');
 
 body {
   background-color:#333333;
   color: #bbbbbb;
   line-height:32px;
-  font-family: 'Montserrat', sans-serif;
-  font-size:14px;
+  font-family: 'Khula', sans-serif;
+  letter-spacing: -0.2px;
+  font-size:16px;
 }
-
+.content {
+  background-image:url(images/crosshill.png);
+  background-repeat:no-repeat;
+  width:1200px;
+}
+nav a {
+  color:black;
+}
+nav a:hover {
+  text-decoration: none;
+  color:#9B9B9B;
+}
+nav .logo {
+  padding-top:14px;
+  float:left;
+  margin-left:8px;
+  margin-right:275px;
+}
+.nav-special {
+  margin-bottom:550px;
+}
+nav ul {
+  background-color: #F8E11C; opacity:0.9;
+  height:60px;
+  clear:both;
+  position:relative;
+}
+nav ul li {
+  display:block;
+  float:left;
+  text-transform:uppercase;
+  list-style:none;
+  padding-top:18px;
+  padding-right:45px;
+  font-weight:700;
+}
 p {
   padding-bottom:20px;
 }
