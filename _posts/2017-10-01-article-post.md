@@ -1,12 +1,16 @@
 ---
-layout: default
+layout: article
 title:  Hope for the Middle East
 date:   2017-10-01
 opening: In the summer of 2011, Musalaha held an Israeli-Palestinian summer camp attended by seventy Palestinian and Israeli children from Christian families. A visitor shares poignant observations...
 ---
 
->At that time the disciples came to Jesus and asked, “Who, then, is the greatest in the kingdom of heaven?” He called a little child to him, and placed the child among them. And he said: “Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven. Matthew 18:1-3
->
+## Hope for the Middle East
+
+October 1, 2017
+
+> ## At that time the disciples came to Jesus and asked, “Who, then, is the greatest in the kingdom of heaven?” He called a little child to him, and placed the child among them. And he said: “Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven. Matthew 18:1-3
+
 
 In the summer of 2011, Musalaha held an Israeli-Palestinian summer camp attended by seventy Palestinian and Israeli children from Christian families. A visitor shares poignant observations:
 
@@ -20,7 +24,7 @@ One day after craft time, a Palestinian boy from the West Bank proudly pulled me
 
 As my coworker Tamara and I reflected on the camp, she said,
 
->“Innocence breaks down all this hatred that we have around us. You love the good things that you see in the other side. Like Jesus said, we should be little children.”
+>>“Innocence breaks down all this hatred that we have around us. You love the good things that you see in the other side. Like Jesus said, we should be little children.”
 >
 
 For them, the “enemy” will never be faceless, inhuman, or distant. For them, the situation will never be easy or black and white. That is good. With open eyes they can help bring change. They are the hope.

@@ -2,6 +2,53 @@
 ---
 @import url('https://fonts.googleapis.com/css?family=Khula:300,400,600,700,800');
 
+.aboutcontent {
+  width:55%;
+  float:left;
+  clear:none;
+  font-size:16px;
+  margin-top:30px;
+}
+.aboutcontent h3 {
+  margin-bottom:20px;
+}
+.articletext {
+  color:#bbbbbb;
+  margin-bottom:6px;
+}
+.bio {
+  width:50%;
+}
+.col-md-4 .bioimg {
+  width:200px;
+  margin-left:165px;
+  margin-top:25px;
+  margin-bottom:20px;
+}
+blockquote  {
+  border-left:none;
+  padding-top:5px;
+  padding-bottom:5px;
+  padding-left:15px;
+}
+blockquote h2 {
+  color: #FFFFB0;
+  font-size:14px;
+  letter-spacing:0;
+  font-weight:300;
+  padding-left:25px;
+  text-transform: none;
+  line-height:28px;
+  width:80%;
+  border-left: 2px solid #FFFFB0;
+}
+blockquote blockquote {
+  color:#bbbbbb;
+  font-size:14px;
+  padding-left:15px;
+  padding-top:5px;
+  padding-bottom:5px;
+}
 body {
   background-color:#333333;
   color: #bbbbbb;
@@ -10,10 +57,59 @@ body {
   letter-spacing: -0.2px;
   font-size:16px;
 }
+.caption a:hover {
+  color:#F8E11C;;
+}
+.col-md-4 h4 {
+  text-align:right;
+  padding:0px;
+  margin-right:10px;
+}
+.col-md-4 img {
+  width:75%;
+  margin-bottom:0px;
+}
+.col-md-4 p {
+  width:250px;
+  text-align:right;
+  margin-left:110px;
+}
+.col-md-8 {
+}
+.col-md-12 {
+  width:101.5%;
+  margin:0px;
+  padding-left:0px;
+}
 .content {
   background-image:url(images/crosshill.png);
   background-repeat:no-repeat;
-  width:1200px;
+  width:1140px;
+}
+h1, h2, h3, h4, h5 {
+  color:#F8E11C;
+  text-transform: uppercase;
+  font-weight:600;
+}
+footer {
+  clear:both;
+  margin-top:100px;
+  margin-bottom:25px;
+  float:left;
+}
+img {
+  width:100%;
+  position:relative;
+  z-index: -2;
+}
+.imgabout {
+  width:30%;
+  float:left;
+  margin-top:50px;
+  margin-right:150px;
+}
+nav {
+  width:100%;
 }
 nav a {
   color:black;
@@ -47,5 +143,35 @@ nav ul li {
   font-weight:700;
 }
 p {
-  padding-bottom:20px;
+  padding-bottom:12px;
+}
+.pagearea{
+  margin-top:35px;
+  margin-left:0px;
+}
+.recent {
+  margin-top:460px;
+}
+.recent h4 {
+  text-align:right;
+  margin-right:30px;
+}
+.recent li {
+  text-align:right;
+  margin-right:30px;
+  list-style:none;
+}
+strong {
+  color:#F8E11C;
+  font-weight:600;
+}
+.thumbnail {
+  width:100%;
+  background-color:#4A4A4A;
+  border:none;
+  padding-left:25px;
+  padding-right:50px;
+}
+.thumbnail a {
+  color:black;
 }
